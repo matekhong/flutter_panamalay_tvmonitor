@@ -1,0 +1,13 @@
+C:/dev/flutter_panamaly_tvmonitor/build/windows/CMakeFiles/INSTALL.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/runner/CMakeFiles/flutter_panamaly_tvmonitor.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/plugins/bitsdojo_window_windows/CMakeFiles/bitsdojo_window_windows_plugin.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/plugins/bitsdojo_window_windows/CMakeFiles/INSTALL.dir
+C:/dev/flutter_panamaly_tvmonitor/build/windows/plugins/bitsdojo_window_windows/CMakeFiles/ALL_BUILD.dir

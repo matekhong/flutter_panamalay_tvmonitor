@@ -1,0 +1,10 @@
+^C:\DEV\FLUTTER_PANAMALY_TVMONITOR\BUILD\WINDOWS\CMAKEFILES\27E5FAF02B411A1311123ADFD833C755\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/dev/flutter_panamaly_tvmonitor/windows -BC:/dev/flutter_panamaly_tvmonitor/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/flutter_panamaly_tvmonitor/build/windows/flutter_panamaly_tvmonitor.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
